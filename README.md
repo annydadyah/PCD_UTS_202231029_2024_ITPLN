@@ -32,6 +32,7 @@ Terakhir, melakukan operasi invert (negative) pada citra biner hasil thresholdin
 ---
 # Analisis Hasil Histogram
 
+
 Dalam membuat histogram, saya melakukan percobaan dengan mengganti interval dari histogram. Hal ini bertujuan untuk mempermudah menganalisis perbedaan signifikan antara histogram pada citra asli dengan citra yang telah dipisah warnanya.
 
 1. Hasil Analisis Histogram Citra Merah:
